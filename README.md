@@ -152,6 +152,7 @@ My experience spans **fintech platforms**, **AI-powered business tools**, and **
 
 ## 📊 **GitHub Analytics**
 
+
 <div align="center">
 
   <a href="https://github.com/sadok-dridi">
@@ -172,14 +173,6 @@ My experience spans **fintech platforms**, **AI-powered business tools**, and **
 </div>
 
 <br/>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadok-dridi&row=1&column=6&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
