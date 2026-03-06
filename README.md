@@ -154,22 +154,30 @@ My experience spans **fintech platforms**, **AI-powered business tools**, and **
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadok-dridi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadok-dridi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/sadok-dridi">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadok-dridi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  </a>
+  <a href="https://github.com/sadok-dridi">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadok-dridi&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  </a>
 
 </div>
+
+<br/>
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sadok-dridi&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=sadok-dridi&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
 </div>
+
+<br/>
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=sadok-dridi&row=1&column=6&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sadok-dridi&row=1&column=6&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
