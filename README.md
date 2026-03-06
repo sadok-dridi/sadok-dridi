@@ -17,7 +17,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=sadok-dridi&style=for-the-badge&color=brightgreen)
   [![GitHub followers](https://img.shields.io/github/followers/sadok-dridi?style=for-the-badge&color=blue)](https://github.com/sadok-dridi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sadok-dridi/)
-  [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/sadokd)
+  [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~016702a86bc2beb894?mp_source=share)
 
 </div>
 
