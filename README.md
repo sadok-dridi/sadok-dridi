@@ -14,17 +14,17 @@ I build web apps, APIs, and automated systems that solve real problems.
 
 ### 🚀 Featured Projects
 
-**[FINHUB-TN](link)** — Fintech escrow platform  
+**[FINHUB-TN]([link](https://github.com/sadok-dridi/FINHUB-TN))** — Fintech escrow platform  
 Digital wallets, QR code payments, Plaid banking integration, blockchain-style 
 transaction verification, n8n webhook notifications.  
 `Java` `Flask` `FastAPI` `MariaDB` `Docker`
 
-**[Orchestr8](link)** — AI Business Automation  
+**[Orchestr8]([link](https://github.com/sadok-dridi/Orchestr8))** — AI Business Automation  
 Connects Google Sheets, Slack, and Notion. AI analyzes business data and 
 auto-delivers insights and reports.  
 `JavaScript` `AI APIs` `Google Sheets` `Slack` `Notion`
 
-**[AutoManagerX](link)** — Smart Automation Engine  
+**[AutoManagerX]([link](https://github.com/sadok-dridi/AutoManagerX))** — Smart Automation Engine  
 Real-time automation triggered by GPS, time events, and external APIs. 
 Notifications via Telegram and email.  
 `JavaScript` `Google Sheets` `Telegram API` `Email`
