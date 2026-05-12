@@ -188,30 +188,11 @@ My experience spans **fintech platforms**, **AI-powered business tools**, and **
 
 ---
 
-## 🤝 **Let's Work Together**
+
 
 <div align="center">
 
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sadok-dridi/)
-  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL_HERE)
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sadok-dridi)
-
-</div>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Upwork-Available%20for%20Hire-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Remote-Worldwide%20🌍-blue?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-  ### **"The best way to predict the future is to build it."**
-  *— Alan Kay*
+  
 
   **📍 Tunisia (GMT+1) | 🌍 Available remotely worldwide | 🗣️ English, French, Arabic**
 
